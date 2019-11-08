@@ -1,3 +1,10 @@
+# Verkefni 8 í Vefforritun 1
+Kári Steinn aðalsteinsson
+
+Netfang: ksa13@hi.is
+
+---
+
 # Verkefni 8
 
 Forrita skal viðmót sem leyfir að bæta við, breyta, eyða og klára verkefni af lista.
